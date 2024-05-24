@@ -72,7 +72,7 @@ body {
   right: 0;
   width: 45%;
   height: 100%;
-  background-image: url(../images/hero-side-bg.png);
+  background-image: url(../images/imageedit_8_3424007259.png);
   background-size: cover;
 }
 
@@ -132,7 +132,7 @@ body {
 }
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item.active .nav-link, .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item:hover .nav-link {
-  color: #24d278;
+  color: #a18974;
 }
 a,
 a:hover,
@@ -285,13 +285,13 @@ a:focus {
 }
 
 .slider_section .detail-box h1 {
-  color: #24d278;
+  color:	#4b3832;
   text-transform: uppercase;
 }
 
 .slider_section .detail-box h1 span {
   font-size: 5rem;
-  color: #23bd3d;
+  color:	#4b3832;
 }
 
 .slider_section .detail-box p {
@@ -312,7 +312,7 @@ a:focus {
 .slider_section .detail-box .btn-box .btn-1 {
   display: inline-block;
   padding: 6px 0;
-  background-color: #24d278;
+  background-color: #83423f;
   color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -363,7 +363,7 @@ a:focus {
 }
 
 .slider_section .play_btn {
-  background-color: #24d278;
+  background-color: #7041415e;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -412,7 +412,7 @@ a:focus {
   position: absolute;
   top: 50%;
   left: 50%;
-  background-color: #24d278;
+  background-color: #7041415e;
   opacity: 1;
   border-radius: 100%;
   -webkit-transform: translate(-50%, -50%);
@@ -466,7 +466,7 @@ a:focus {
   width: 15px;
   height: 15px;
   border-radius: 100%;
-  background-color: #24d278;
+  background-color: #be9b7b;
   opacity: 1;
   border: none;
   background-clip: unset;
