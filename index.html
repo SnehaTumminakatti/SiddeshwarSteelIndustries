@@ -857,6 +857,23 @@ For generations, Siddeshwar has been a trusted guardian for your valuables. We a
 
     })
   </script>
+  <script>
+      $(document).ready(function() {
+
+          $(window).scroll(function() {
+
+          var height = $('.hero_area').height();
+          var scrollTop = $(window).scrollTop();
+
+          if (scrollTop >= height - 40) {
+              $('.custom_nav-container').addClass('solid-nav');
+          } else {
+              $('.custom_nav-container').removeClass('solid-nav');
+          }
+
+          });
+    });
+  </script>
 
 </body>
 </body>
