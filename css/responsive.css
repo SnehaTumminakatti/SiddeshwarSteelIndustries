@@ -13,7 +13,7 @@
     opacity: 1;
     transform: none;
   }
-
+  
   .navbar{
     display: contents;
   }
@@ -21,6 +21,7 @@
   .sub_page .hero_area::after {
     display: none;
   }
+  
 
   .navbar-toggler {
     padding: 0.25rem 0;
@@ -64,7 +65,7 @@
 
   .hero_area::after {
     background-image: none;
-    background-color: #1fd778;
+    background-color:#be9b7b;
     width: 100%;
     height: 450px;
   }
@@ -75,6 +76,7 @@
 
   .slider_section .detail-box {
     margin-bottom: 45px;
+    /* background-color: #fefefe!; */
   }
 
   .slider_section .img-container {
@@ -108,13 +110,14 @@
     margin-top: 125px;
     margin-bottom: 90px;
   }
+  
 
   .slider_section .carousel-indicators {
     bottom: 25px;
   }
 
   .slider_section .carousel-indicators li {
-    background-color: #fefefe;
+    background-color:#be9b7b;
   }
 
   .slider_section .number_box {
